@@ -12,8 +12,9 @@ Format
 Type
 ----
 Must be one of the following:
-* `build`: Changes that affect the build system or external dependencies
+* `build`: Changes that affect the build system
 * `ci`: Changes to our CI configuration files and scripts
+* `deps`: Changes that affect external dependencies
 * `docs`: Documentation only changes
 * `feat`: A new feature
 * `fix`: A bug fix
